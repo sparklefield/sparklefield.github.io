@@ -46,12 +46,12 @@
   <br> 
   <br> 
   <div class="game2div"> 
-   <div class="game3"> 
+   <div class="game3" onclick="cwin()"; > 
     <img id="game3img" src="stacksmash.webp" alt="impostergame"> 
     <h2 id="game3txt1">Stack Smash</h2> 
     <h2 id="game3txt2">Play Now! </h2> 
    </div> 
-   <div class="game4"> 
+   <div class="game4" onclick="dwin()"; > 
     <img id="game4img" src="dangerlight.webp" alt="dangerlight"> 
     <h2 id="game4txt1">Danger light</h2> 
     <h2 id="game4txt2">Play Now! </h2> 
@@ -151,14 +151,11 @@ function my(){
     alert()
   })
   
-function awin(){
-window.location.assign("imposter.html");
-}
+function awin(){ window.location.assign("imposter.html");}
+ function bwin(){ window.location.assign("poolmania.html");}
+function cwin(){ window.location.assign("stacksmash.html");}
+function dwin(){ window.location.assign("dangerlight.html");}
 
- function bwin(){
-window.location.assign("poolmania.html");
-}
-  
 </script> 
  </body>
 </html>
