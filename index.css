@@ -189,6 +189,7 @@ html,  body{
   height: 170px; 
   border-radius: 15px; 
   text-align: center; 
+box-shadow: 3px 4px 20px black;
 }
 #game1img{
  width: 160px; 
@@ -220,6 +221,7 @@ font-family: 'Bebas Neue', cursive;
   height: 170px; 
   border-radius: 15px; 
   text-align: center; 
+box-shadow: 3px 4px 20px black;
 }
 #game2img{
  width: 160px; 
@@ -257,7 +259,7 @@ font-family: 'Bebas Neue', cursive;
   height: 170px; 
   border-radius: 15px; 
   text-align: center; 
-  transition: box-shadow 0.35s;
+box-shadow: 3px 4px 20px black;
 }
 #game3img{
  width: 160px; 
@@ -282,7 +284,7 @@ font-family: 'Bebas Neue', cursive;
   height: 170px; 
   border-radius: 15px; 
   text-align: center; 
-  transition: box-shadow 0.35s;
+  box-shadow: 3px 4px 20px black;
 }
 #game4img{
  width: 160px; 
@@ -317,7 +319,7 @@ font-family: 'Bebas Neue', cursive;
   height: 170px; 
   border-radius: 15px; 
   text-align: center; 
-  transition: box-shadow 0.35s;
+  box-shadow: 3px 4px 20px black;
 }
 #game5img{
  width: 160px; 
@@ -342,7 +344,7 @@ font-family: 'Bebas Neue', cursive;
   height: 170px; 
   border-radius: 15px; 
   text-align: center; 
-  transition: box-shadow 0.35s;
+  box-shadow: 3px 4px 20px black;
 }
 #game6img{
  width: 160px; 
@@ -377,7 +379,7 @@ font-family: 'Bebas Neue', cursive;
   height: 170px; 
   border-radius: 15px; 
   text-align: center; 
-  transition: box-shadow 0.35s;
+  box-shadow: 3px 4px 20px black;
 }
 #game7img{
  width: 160px; 
@@ -402,7 +404,7 @@ font-family: 'Bebas Neue', cursive;
   height: 170px; 
   border-radius: 15px; 
   text-align: center; 
-  transition: box-shadow 0.35s;
+  box-shadow: 3px 4px 20px black;
 }
 #game8img{
  width: 160px; 
@@ -437,7 +439,7 @@ font-family: 'Bebas Neue', cursive;
   height: 170px; 
   border-radius: 15px; 
   text-align: center; 
-  transition: box-shadow 0.35s;
+  box-shadow: 3px 4px 20px black;
 }
 #game9img{
  width: 160px; 
@@ -462,7 +464,7 @@ font-family: 'Bebas Neue', cursive;
   height: 170px; 
   border-radius: 15px; 
   text-align: center; 
-  transition: box-shadow 0.35s;
+  box-shadow: 3px 4px 20px black;
 }
 #game10img{
  width: 160px; 
