@@ -94,6 +94,18 @@ html,  body{
  font-size: 15px; 
  left: 100px;
   }
+  #feedback{
+   background: -webkit-linear-gradient(white, white);
+ -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ position: relative; 
+ text-align: center; 
+ top: 60px; 
+ width: 80px; 
+ font-family: 'Bebas Neue', cursive;
+ font-size: 15px; 
+ left: 104px;
+  }
 #topgames{
  text-align: center; 
  font-family: 'Bebas Neue', cursive;
